@@ -1,0 +1,8 @@
+#git
+.git
+
+#todo list
+.todo
+
+#node modules
+.node_modules
